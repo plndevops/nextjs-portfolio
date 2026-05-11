@@ -13,8 +13,6 @@ export default function Home() {
       <div className="mt-8 space-y-2 text-center">
         <p>I have deployed Next,Js front deplyment using AWS</p>
         <p>AWS</p>
-        <p>Docker</p>
-        <p>Jenkins</p>
         <p>GitHub</p>
         <p>Next.js</p>
       </div>
