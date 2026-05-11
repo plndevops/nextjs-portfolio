@@ -11,10 +11,10 @@ export default function Home() {
       </p>
 
       <div className="mt-8 space-y-2 text-center">
-        <p>I have deployed Next,Js front deplyment using AWS</p>
-        <p>AWS</p>
+        <p>I have deployed Next,Js front deplyment using </p> 
+        <p>AWS Ec2</p>
         <p>GitHub</p>
-        <p>Next.js</p>
+        <p>following with requeired Dependencies</p>
       </div>
 
     </div>
