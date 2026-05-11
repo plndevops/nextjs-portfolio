@@ -11,12 +11,14 @@ export default function Home() {
       </p>
 
       <div className="mt-8 space-y-2 text-center">
-        <p>I have deployed the Next.JS front end deplyment using</p>
+        <p>I have deployed Next,Js front deplyment using AWS</p>
         <p>AWS</p>
+        <p>Docker</p>
+        <p>Jenkins</p>
         <p>GitHub</p>
         <p>Next.js</p>
       </div>
 
     </div>
   );
-}i
+}
